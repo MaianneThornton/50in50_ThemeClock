@@ -137,10 +137,10 @@ body {
   font-size: 12px;
 }
 
-/* @media (max-width: 580px) {
+@media (max-width: 580px) {
   body {
     flex-direction: column;
     justify-content: center;
     align-items: center;
   }
-} */
+}
