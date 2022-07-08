@@ -59,6 +59,8 @@ body {
   position: relative;
   width: 200px;
   height: 200px;
+  background-color: #444;
+  border-radius: 50%;
 }
 
 .needle {
